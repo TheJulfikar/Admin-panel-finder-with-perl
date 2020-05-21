@@ -6,7 +6,7 @@
 #	 	     Hackers47
 #	////////////////////////////////////
 #
-#	Title : PHPadmin panel Finder by Error04
+#	Title : PHPadmin panel Finder by TheJulfikar
 #	Category : Remote
 #	
 #*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
@@ -19,7 +19,7 @@ system ("cls");
 system ("Error04");
 print "\t\t/////////////////////////////////////////////////\n";  
 print "\t\t_________________________________________________\n";
-print "\t\t\t PHP admin panel Finder by Error04\n";
+print "\t\t\t PHP admin panel Finder by TheJulfikar\n";
 print "\t\t\t Version In English\n";
 print "\t\t_________________________________________________\n";
 print "\n\n";
